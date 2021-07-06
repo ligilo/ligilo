@@ -4448,4 +4448,11 @@
  .fas {
    font-family: 'Font Awesome 5 Free';
    font-weight: 900; }
+
+    
+   foreignObject i {
+    font-size: 13px;
+    margin-left: 1px;
+    opacity: 0.5;
+}
  
